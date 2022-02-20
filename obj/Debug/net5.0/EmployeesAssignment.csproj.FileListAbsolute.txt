@@ -1,0 +1,12 @@
+C:\Users\DAVID-OGOLA\source\repos\EmployeesAssignment\bin\Debug\net5.0\EmployeesAssignment.deps.json
+C:\Users\DAVID-OGOLA\source\repos\EmployeesAssignment\bin\Debug\net5.0\EmployeesAssignment.dll
+C:\Users\DAVID-OGOLA\source\repos\EmployeesAssignment\bin\Debug\net5.0\ref\EmployeesAssignment.dll
+C:\Users\DAVID-OGOLA\source\repos\EmployeesAssignment\bin\Debug\net5.0\EmployeesAssignment.pdb
+C:\Users\DAVID-OGOLA\source\repos\EmployeesAssignment\obj\Debug\net5.0\EmployeesAssignment.csproj.AssemblyReference.cache
+C:\Users\DAVID-OGOLA\source\repos\EmployeesAssignment\obj\Debug\net5.0\EmployeesAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DAVID-OGOLA\source\repos\EmployeesAssignment\obj\Debug\net5.0\EmployeesAssignment.AssemblyInfoInputs.cache
+C:\Users\DAVID-OGOLA\source\repos\EmployeesAssignment\obj\Debug\net5.0\EmployeesAssignment.AssemblyInfo.cs
+C:\Users\DAVID-OGOLA\source\repos\EmployeesAssignment\obj\Debug\net5.0\EmployeesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\DAVID-OGOLA\source\repos\EmployeesAssignment\obj\Debug\net5.0\EmployeesAssignment.dll
+C:\Users\DAVID-OGOLA\source\repos\EmployeesAssignment\obj\Debug\net5.0\ref\EmployeesAssignment.dll
+C:\Users\DAVID-OGOLA\source\repos\EmployeesAssignment\obj\Debug\net5.0\EmployeesAssignment.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VNsEOJpmNDdA+AlfnbYnLs2hs0hNzbdCGtU2jN/dh7zqethEjfHPZFI0aKg1Ozzn5Q0o3pLkxqOmF74LKFQqtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DAVID-OGOLA\\source\\repos\\EmployeesAssignment\\EmployeesAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DAVID-OGOLA\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
